@@ -1,0 +1,11 @@
+networking_vbox/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+networking_vbox/config.py,sha256=eG4QsZ74ScxrT85ct0DgD7iqsF6oukbQpyjJYYJtXNo,654
+networking_vbox/mechanism_driver.py,sha256=cyz2NsBpBw2kHAp3gdaalNjtMNGykE-e9AXS2GSLF6g,5777
+networking_vbox/common/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+networking_vbox/common/network_mapping.py,sha256=XWfkPprZJMpTfoksGZRMr_DX9nsXu5fRnEGRLYb8wL4,1060
+networking_vbox/common/vmrest_client.py,sha256=rVLMRnO9WfxL5NPsZYX5e-SMklB6TpaZd1aSAuCdZpQ,1071
+networking_virtualbox-1.0.0.dist-info/METADATA,sha256=KiZSmtdhmHovnKLVIIAfuKWOzht9ZhFj0jZB85v2LaQ,245
+networking_virtualbox-1.0.0.dist-info/WHEEL,sha256=mOdXR9C3wMVov7cSY8PY-XCzo3SmmWCHvGQr5csJoao,91
+networking_virtualbox-1.0.0.dist-info/entry_points.txt,sha256=qtrhAmLxEhB3IiGMFi3G9NriO9jf6OsZdtdLzRtYdJI,104
+networking_virtualbox-1.0.0.dist-info/top_level.txt,sha256=Dry_b2aN-PEb118b2YRZo6yBNF67-Juzn_rqq00Uv5s,16
+networking_virtualbox-1.0.0.dist-info/RECORD,,

@@ -1,0 +1,10 @@
+
+Package: networking-virtualbox
+Version: 1.0.0
+Section: python
+Priority: optional
+Architecture: all
+Maintainer: OpenStack Administrator <root@localhost>
+Depends: python3, python3-neutron, python3-stevedore
+Description: VirtualBox ML2 mechanism driver for OpenStack Neutron
+ Custom VirtualBox mechanism driver for OpenStack Neutron ML2.

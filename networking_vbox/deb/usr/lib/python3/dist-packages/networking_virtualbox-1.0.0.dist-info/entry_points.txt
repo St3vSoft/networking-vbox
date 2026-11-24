@@ -1,0 +1,2 @@
+[neutron.ml2.mechanism_drivers]
+virtualbox = networking_vbox.mechanism_driver:VirtualBoxMechanismDriver

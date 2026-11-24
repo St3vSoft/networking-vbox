@@ -5,5 +5,5 @@ Download the latest Debian package from
 
 ## Build from source
 
-See [BUILD_DEB.md](docs/BUILD_DEB.md)
+See [BUILD_DEB.md](networking_vbox/README.md)
 for instructions on building the Debian package.

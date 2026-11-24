@@ -8,16 +8,12 @@ The package installs the VirtualBox ML2 mechanism driver into the system Python 
 
 Install the required tools:
 
-bash
-
 ```bash
 sudo apt update
 sudo apt install -y dpkg-dev python3
 ```
 
 Verify the Debian package builder:
-
-bash
 
 ```bash
 dpkg-deb --version
@@ -26,8 +22,6 @@ dpkg-deb --version
 ## 2\. Package structure
 
 The Debian package uses the following directory structure:
-
-text
 
 ```text
 networking-vbox/
@@ -169,7 +163,7 @@ sudo apt remove networking-virtualbox
 ## 9\. Important notes
 
 - The package is architecture-independent (`Architecture: all`).
-- The package targets Ubuntu 24.04 LTS and its system Python environment.
+- The package targets Ubuntu 26.10 LTS and its system Python environment.
 - Do not install or upgrade the driver using pip into the system Python environment.
 - Preserve the `.dist-info` directory and its `entry_points.txt` file.
 - Test the package against the target OpenStack and Neutron versions before production deployment.
